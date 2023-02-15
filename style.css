@@ -1,0 +1,13 @@
+*{
+    border: 1px solid black; 
+    margin: 5px;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center; /*Alinhamneto no eixo principal*/
+    align-items: center;  /*Alinhamento no eixo secundario*/ 
+
+}
